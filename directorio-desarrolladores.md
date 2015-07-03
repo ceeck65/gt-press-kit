@@ -72,6 +72,11 @@ Acá podrás encontrar información de los desarrolladores que forman parte de n
 
 ##Guárico
 ##Lara
+##### Mario Fernández.
+- Barquisimeto, Edo. Lara.
+- [ceeck65 en Github](https://github.com/ceeck65).
+- [@ceeck65 en Twitter](https://twitter.com/ceeck65).
+- 
 ##Mérida
 ##Miranda
 ##Monagas
